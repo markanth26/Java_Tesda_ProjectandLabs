@@ -1,0 +1,15 @@
+# --- Build Artifacts and Generated Files ---
+build/
+build
+
+# --- IDE/Environment Specific Files (NetBeans) ---
+nbproject/
+
+# --- Local Configuration and Scripts in the root folder ---
+config
+
+# --- Files/Artifacts inside the Vistrack folder (IGNORE THESE) ---
+Vistrack/config
+Vistrack/Vistrack_System_New.jar
+Vistrack/run_main.bat
+Vistrack/run_seeder.bat
